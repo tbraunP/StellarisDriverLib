@@ -34,8 +34,10 @@
 								</option>
 								<option id="org.eclipse.cdt.cross.arm.gnu.c.compiler.option.preprocessor.def.1288909298" name="Defined symbols (-D)" superClass="org.eclipse.cdt.cross.arm.gnu.c.compiler.option.preprocessor.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="PART_LM4F120H5QR"/>
+									<listOptionValue builtIn="false" value="gcc"/>
 									<listOptionValue builtIn="false" value="TARGET_IS_BLIZZARD_RA1"/>
 								</option>
+								<option id="org.eclipse.cdt.cross.arm.gnu.c.compiler.option.misc.std.765578201" name="Language Standard" superClass="org.eclipse.cdt.cross.arm.gnu.c.compiler.option.misc.std" value="org.eclipse.cdt.cross.arm.gnu.c.compiler.option.misc.std.gnu99" valueType="enumerated"/>
 								<inputType id="org.eclipse.cdt.cross.arm.gnu.summon.linux.c.compiler.base.input.83498922" superClass="org.eclipse.cdt.cross.arm.gnu.summon.linux.c.compiler.base.input"/>
 							</tool>
 							<tool id="org.eclipse.cdt.cross.arm.gnu.summon.linux.lib.cpp.compiler.debug.989280705" name="ARM Summon Linux GCC C++ Compiler" superClass="org.eclipse.cdt.cross.arm.gnu.summon.linux.lib.cpp.compiler.debug">
@@ -89,6 +91,7 @@
 								</option>
 								<option id="org.eclipse.cdt.cross.arm.gnu.c.compiler.option.preprocessor.def.1437123564" name="Defined symbols (-D)" superClass="org.eclipse.cdt.cross.arm.gnu.c.compiler.option.preprocessor.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="PART_LM4F120H5QR"/>
+									<listOptionValue builtIn="false" value="gcc"/>
 									<listOptionValue builtIn="false" value="TARGET_IS_BLIZZARD_RA1"/>
 								</option>
 								<inputType id="org.eclipse.cdt.cross.arm.gnu.summon.linux.c.compiler.base.input.1071404768" superClass="org.eclipse.cdt.cross.arm.gnu.summon.linux.c.compiler.base.input"/>
