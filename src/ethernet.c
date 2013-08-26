@@ -44,10 +44,10 @@
 //
 //*****************************************************************************
 
-#include "inc/hw_ethernet.h"
-#include "inc/hw_ints.h"
-#include "inc/hw_memmap.h"
-#include "inc/hw_types.h"
+#include "hw_ethernet.h"
+#include "hw_ints.h"
+#include "hw_memmap.h"
+#include "hw_types.h"
 #include "debug.h"
 #include "ethernet.h"
 #include "interrupt.h"

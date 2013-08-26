@@ -45,11 +45,11 @@
 //
 //*****************************************************************************
 
-#include "inc/hw_ints.h"
-#include "inc/hw_memmap.h"
-#include "inc/hw_peci.h"
-#include "inc/hw_sysctl.h"
-#include "inc/hw_types.h"
+#include "hw_ints.h"
+#include "hw_memmap.h"
+#include "hw_peci.h"
+#include "hw_sysctl.h"
+#include "hw_types.h"
 #include "debug.h"
 #include "interrupt.h"
 #include "peci.h"

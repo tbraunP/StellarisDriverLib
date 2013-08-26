@@ -44,9 +44,9 @@
 //
 //*****************************************************************************
 
-#include "inc/hw_sysctl.h"
-#include "inc/hw_types.h"
-#include "inc/hw_udma.h"
+#include "hw_sysctl.h"
+#include "hw_types.h"
+#include "hw_udma.h"
 #include "debug.h"
 #include "interrupt.h"
 #include "udma.h"

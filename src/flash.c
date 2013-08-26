@@ -44,10 +44,10 @@
 //
 //*****************************************************************************
 
-#include "inc/hw_flash.h"
-#include "inc/hw_ints.h"
-#include "inc/hw_sysctl.h"
-#include "inc/hw_types.h"
+#include "hw_flash.h"
+#include "hw_ints.h"
+#include "hw_sysctl.h"
+#include "hw_types.h"
 #include "debug.h"
 #include "flash.h"
 #include "interrupt.h"

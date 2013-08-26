@@ -44,10 +44,10 @@
 //
 //*****************************************************************************
 
-#include "inc/hw_hibernate.h"
-#include "inc/hw_ints.h"
-#include "inc/hw_sysctl.h"
-#include "inc/hw_types.h"
+#include "hw_hibernate.h"
+#include "hw_ints.h"
+#include "hw_sysctl.h"
+#include "hw_types.h"
 #include "debug.h"
 #include "hibernate.h"
 #include "interrupt.h"

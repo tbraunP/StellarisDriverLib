@@ -44,11 +44,11 @@
 //
 //*****************************************************************************
 
-#include "inc/hw_adc.h"
-#include "inc/hw_ints.h"
-#include "inc/hw_memmap.h"
-#include "inc/hw_types.h"
-#include "inc/hw_sysctl.h"
+#include "hw_adc.h"
+#include "hw_ints.h"
+#include "hw_memmap.h"
+#include "hw_types.h"
+#include "hw_sysctl.h"
 #include "adc.h"
 #include "debug.h"
 #include "interrupt.h"

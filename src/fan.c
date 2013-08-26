@@ -37,10 +37,10 @@
 //
 //*****************************************************************************
 
-#include "inc/hw_types.h"
-#include "inc/hw_memmap.h"
-#include "inc/hw_fan.h"
-#include "inc/hw_ints.h"
+#include "hw_types.h"
+#include "hw_memmap.h"
+#include "hw_fan.h"
+#include "hw_ints.h"
 #include "fan.h"
 #include "debug.h"
 #include "interrupt.h"

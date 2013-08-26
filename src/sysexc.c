@@ -44,9 +44,9 @@
 //
 //*****************************************************************************
 
-#include "inc/hw_ints.h"
-#include "inc/hw_sysexc.h"
-#include "inc/hw_types.h"
+#include "hw_ints.h"
+#include "hw_sysexc.h"
+#include "hw_types.h"
 #include "interrupt.h"
 
 //*****************************************************************************
